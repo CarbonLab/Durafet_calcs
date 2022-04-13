@@ -1,0 +1,35 @@
+he PID-02 is a portable winch designed for oceanographic and
+geophysics research applications. This versatile model is capable of
+lifting and lowering small instrument payloads (up to 200 lbs typical). It
+is compact unit with a drum capacity of up to 1500 m of 1/8” (3 mm)
+wire-line.
+The PID-02 is available with a 2 or 3-speed manual drives or with an
+electric drives as shown. Gas drill adaptors are available for the manual
+drive gearboxes.
+***Please specify: cable diameter, bend radius and length, desired line
+speeds, and load
+Features:
+ Typical Frame dimensions up to 40” L x 25” W x 15” H but may
+vary depending on certain configuration
+ 1” Frame tubing
+ With drum, the overall height is approximately 27” (31” electric version)
+ 16” to 27” drum flange diameters and 6.625” to 16” drum core diameters are available.
+ Nominal weight without wire - 110 lbs (50 Kg) manual, 290 lbs (132 kg) electric
+ Powder coated aluminum frame
+ Two man portable
+ Manual version: 2-speed (1:1 and 1.8:1) and 3-speed (approximately 1:5, 1:10 and 1:12.5 reduction)
+gearboxes with removeable drive handle
+ Electric version: battery powered from 12VDC to 48VDC or 110/220 VAC single phase version with
+motor from ½ HP to 2HP motors
+ Electric version: Variable speed controller mounted on the frame
+ Manual disc brake
+ Manual hand crank backup possible with electric models (require the clutch option)
+ Drum capacity: up to 1.5 Km of 1/8" wire line - dependent on drum core
+ Electric version: Typical speed: 21 meters/min with 36 kg load
+ Speed reducer: combination of worm gear and sprocket chain
+ Other load capacities / line speeds available with sprocket changeover
+Options:
+ Clutch setup
+ Chain-driven powered level wind for spooling cable (Electric version available)
+ Joystick control for electric drive
+ 2 - 48 conductor slip rings for power or signa
